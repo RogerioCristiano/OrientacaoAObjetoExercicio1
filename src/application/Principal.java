@@ -12,6 +12,7 @@ public class Principal {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("TESTE GITHUB");
 		System.out.print("Enter account number: ");
 		int number = sc.nextInt();
 		System.out.print("Enter account holder: ");
